@@ -1,2 +1,2 @@
 # covid-anti-bot
-Python bot to search for available COVID-19 vaccines
+Python bot to search for available COVID-19 vaccines -- 2021!
